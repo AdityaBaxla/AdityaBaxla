@@ -11,7 +11,7 @@
     <foreignObject width="100%" height="100%"> 
         <div xmlns="http://www.w3.org/1999/xhtml">
             <!-- Add your responsive and animated content here -->
-            <h1>Your Name</h1>
+            <h1>Aditya Baxla</h1>
             <p>Introduction or tagline</p>
             <!-- Add more content as needed -->
         </div>
