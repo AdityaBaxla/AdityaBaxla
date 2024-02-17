@@ -7,6 +7,7 @@
 - 📫 How to reach me ... email me - adityabaxla@gmail.com; reach me out on LinkedIn @AdityaBaxla
 
 <!-- Add the responsive and animated elements based on the article's tricks -->
+<!--
 <svg xmlns="http://www.w3.org/2000/svg" fill="none">
     <foreignObject width="100%" height="100%"> 
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -16,9 +17,10 @@
             <!-- Add more content as needed -->
         </div>
     </foreignObject>
+<!--
 </svg>
 
-<!-- Add the light and dark mode styles -->
+<!-- Add the light and dark mode styles 
 <style>
     @media (prefers-color-scheme: light) {
         body {
@@ -35,10 +37,11 @@
     }
 </style>
 
-<!-- Add the <picture> element for responsive images -->
+<!-- Add the <picture> element for responsive images 
 <picture>
     <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="path/to/light-mode-image.jpg">
     <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="path/to/light-mode-mobile-image.jpg">
     <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="path/to/dark-mode-mobile-image.jpg">
     <img src="path/to/dark-mode-image.jpg" alt="Image description" width="100%">
 </picture>
+-->
