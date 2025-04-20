@@ -1,10 +1,13 @@
 <!-- Update this section with your profile details -->
 - 👋 Hi, I’m @AdityaBaxla
 - 👀 I’m interested in ...
-- Blockchain Technology, specifically real-world microfinance problem-solving with the help of blockchain.
-- 🌱 I’m currently learning ... Solidity, JavaScript
-- 💞️ I’m looking to collaborate on ... Projects on solidity
-- 📫 How to reach me ... email me - adityabaxla@gmail.com; reach me out on LinkedIn @AdityaBaxla
+- Webdevelopment, sloving problem with code and would like to build a game someday 🤞
+- 🌱 I’m currently learning ...
+- Go, Docker and System Design.
+- 💞️ I’m currently working on..
+- Flask, Vue.js, postgress and building web applications
+- 📫 How to reach me ...
+- email me adityabaxla@gmail.com; reach me out on LinkedIn @AdityaBaxla
 
 # 💫 About Me:
 🐈 I'm working as Course Instructor @IITM BS<br>🥨 Interesed in application development<br>🛩️ Full stack developer<br>🧑‍💻 Python and Javascript are my strongest languages
