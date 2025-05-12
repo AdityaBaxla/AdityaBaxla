@@ -35,4 +35,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=adityabaxla&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 💡 Ideas for future projects
+- [ ] Music icon vector for installation via npm and integrated through tailwind.
+- [ ] Visual editor with content changing cms, based on Astro with a CMS back just to modify the content (frontend only, static website)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
